@@ -1,0 +1,2 @@
+H:\workspace\c++\learn\learn\Debug\learn.exe
+H:\workspace\c++\learn\learn\Debug\learn.pdb

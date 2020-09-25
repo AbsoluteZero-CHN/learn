@@ -1,0 +1,5 @@
+﻿  pre_compile.cpp
+H:\workspace\c++\learn\learn\pre_compile.cpp(8,5): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  suspend.cpp
+  正在生成代码...
+  learn.vcxproj -> H:\workspace\c++\learn\learn\Debug\learn.exe
