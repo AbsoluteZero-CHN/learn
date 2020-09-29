@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="base_iosteam.cpp" />
     <ClCompile Include="extends.cpp" />
+    <ClCompile Include="function_pointer.cpp" />
     <ClCompile Include="lambda.cpp" />
     <ClCompile Include="learn.cpp" />
     <ClCompile Include="header.cpp" />
@@ -151,7 +152,6 @@
     <ClCompile Include="pre_compile.cpp" />
     <ClCompile Include="string.cpp" />
     <ClCompile Include="struct.cpp" />
-    <ClCompile Include="suspend.cpp" />
     <ClCompile Include="test_namespace.cpp" />
     <ClCompile Include="virtual_function.cpp" />
   </ItemGroup>

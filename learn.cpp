@@ -15,6 +15,7 @@ extern void operator_overloading();
 extern void virtual_function();
 extern void memory_alloc();
 extern void pre_compile();
+extern void function_pointer();
 using namespace std;
 
 enum color
@@ -36,6 +37,7 @@ int main()
     virtual_function();
     memory_alloc();
     pre_compile();
+    function_pointer();
     return 0;
 }
 
